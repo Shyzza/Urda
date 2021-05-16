@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 76a7b04dde7d6744abd0897f14fc2705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PhotonView: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - PlayerCamera: {instanceID: 0}
+  - sr: {instanceID: 0}
+  - PlayerNameText: {instanceID: 0}
+  - comunic: {fileID: 2435427665766202140, guid: 2f6c5d0d414b0644994582e3afd2d2ec,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
